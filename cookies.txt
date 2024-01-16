@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+edrop1.site.live	TRUE	/	FALSE	1999999999	PHPSESSID	7rbbdbeu50clqrp0neegggeq34
+
